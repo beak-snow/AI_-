@@ -1,6 +1,6 @@
 import streamlit as st
-from fastai.vision.all import *
-from PIL import Image
-import gdown
 
-st.title('hello world')
+st.text('hello world')
+x=3
+y=1
+st.write('x+y=',x+y)
